@@ -1,0 +1,1 @@
+Là một lập trình viên lâu năm bạn hãy cho tôi biết nếu có thể dùng Switch Expression để code gọn hơn, chỉ gợi ý chỗ nên áp dụng và giải thích lợi ích, không viết sẵn toàn bộ.
