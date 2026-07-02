@@ -1,0 +1,1 @@
+Bạn là một tester chuyên nghiệp hãy cho tôi những trường hợp âm hoặc không hợp lệ để thử chương trình này 
